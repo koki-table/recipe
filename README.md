@@ -1,3 +1,6 @@
+### 初期設定の参考記事
+　[Next.js で PlanetScale を使ってみた](https://dev.classmethod.jp/articles/nextjs-planetscale-tutorial/)
+
 ### planet scale起動方法
 pscale connect recipe main --port 3309 
 （※起動しないとdev環境の場合、エラーになる）
